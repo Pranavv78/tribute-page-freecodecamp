@@ -1,0 +1,89 @@
+body{
+
+    background-color: rgb(46, 46, 95);
+    color: white;
+    overflow-x: hidden;
+    height: 100%;
+    width:100%;
+    ;
+  }
+  
+  main{
+  
+    text-align: center;
+  }
+  
+  #title{
+    font-size: 75px;
+    margin-top:80px;
+    padding: auto;
+  
+  }
+  
+  h2{
+  
+    font-size: 40px;
+    margin-top: -25px;
+  
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    border: 2px solid black;
+    
+  }
+  
+  #img-caption{
+  
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+  }
+  
+  #tribute-link{
+  
+    text-decoration: none;
+    font-size: 25px;
+    color: rgba(37, 224, 199, 0.768);
+    border: 1px solid black;
+    
+  }
+  
+  #info1{
+  
+  font-size: 30px;
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  line-height: 50px;
+  }
+  
+  hr{
+  width: 30%;
+  }
+  
+  .head{
+  
+     font-family:verdana;
+  }
+  
+  .info2{
+    font-size: 22px;
+    font-weight: 500;
+    width: 70%;
+    margin:auto;
+  
+  }
+  
+  #footer,a{
+    color: white;
+  }
+  
+  a:hover{
+    color:rgb(20, 221, 161);
+  }
